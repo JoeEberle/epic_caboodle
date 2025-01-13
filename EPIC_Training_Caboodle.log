@@ -1,0 +1,9 @@
+2025-01-12 21:01:03,180 - INFO - START EPIC_Training_Caboodle =============================================
+2025-01-12 21:01:03,180 - INFO - START EPIC_Training_Caboodle Start Time = 2025-01-12 21:01:03
+2025-01-12 21:01:03,180 - INFO - EPIC_Training_Caboodle Step 0 - Initialize the configuration file parser
+2025-01-12 21:01:03,181 - INFO - Process EPIC_Training_Caboodle Step 0 - Initializing and starting Logging Process.
+2025-01-12 21:01:04,390 - INFO - PERFORMANCE EPIC_Training_Caboodle The total process duration was:1.21
+2025-01-12 21:01:04,390 - INFO - PERFORMANCE EPIC_Training_Caboodle Stop Time = 2025-01-12 21:01:04
+2025-01-12 21:01:04,390 - INFO - PERFORMANCE EPIC_Training_Caboodle Short process duration less than 3 Seconds:1.21
+2025-01-12 21:01:04,390 - INFO - PERFORMANCE EPIC_Training_Caboodle Performance optimization is not reccomended
+2025-01-12 21:01:04,390 - INFO - END EPIC_Training_Caboodle =============================================

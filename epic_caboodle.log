@@ -1,8 +1,8 @@
-2025-01-06 16:25:15,244 - INFO - START epic_caboodle =============================================
-2025-01-06 16:25:15,244 - INFO - START epic_caboodle Start Time = 2025-01-06 16:25:15
-2025-01-06 16:25:15,244 - INFO - epic_caboodle Step 0 - Initialize the configuration file parser
-2025-01-06 16:25:15,767 - INFO - PERFORMANCE epic_caboodle The total process duration was:0.52
-2025-01-06 16:25:15,767 - INFO - PERFORMANCE epic_caboodle Stop Time = 2025-01-06 16:25:15
-2025-01-06 16:25:15,767 - INFO - PERFORMANCE epic_caboodle Short process duration less than 3 Seconds:0.52
-2025-01-06 16:25:15,767 - INFO - PERFORMANCE epic_caboodle Performance optimization is not reccomended
-2025-01-06 16:25:15,768 - INFO - END epic_caboodle =============================================
+2025-01-06 17:19:33,681 - INFO - START epic_caboodle =============================================
+2025-01-06 17:19:33,681 - INFO - START epic_caboodle Start Time = 2025-01-06 17:19:33
+2025-01-06 17:19:33,681 - INFO - epic_caboodle Step 0 - Initialize the configuration file parser
+2025-01-06 17:19:34,195 - INFO - PERFORMANCE epic_caboodle The total process duration was:0.52
+2025-01-06 17:19:34,195 - INFO - PERFORMANCE epic_caboodle Stop Time = 2025-01-06 17:19:34
+2025-01-06 17:19:34,195 - INFO - PERFORMANCE epic_caboodle Short process duration less than 3 Seconds:0.52
+2025-01-06 17:19:34,195 - INFO - PERFORMANCE epic_caboodle Performance optimization is not reccomended
+2025-01-06 17:19:34,195 - INFO - END epic_caboodle =============================================
