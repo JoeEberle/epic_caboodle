@@ -8,20 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
 
 
 # Caboodle   CDW110v Caboodle Data   Model Fundamentals
@@ -322,7 +308,7 @@ developer at your organization has created this custom DMC.
     SSIS helps you **extract** data from various sources (e.g., databases, flat files, Excel, or cloud sources), **transform** it (clean, merge, aggregate, or apply business logic), and **load** the refined data into a target system (e.g., a data warehouse).  
 
 2. **Automation and Workflow**  
-    In addition to ETL tasks, SSIS includes tools for building **automated workflows**—for example, you can automate tasks like sending email notifications, running SQL scripts, or executing other applications when a data load finishes.
+    In addition to ETL tasks, SSIS includes tools for building **automated workflows**â€”for example, you can automate tasks like sending email notifications, running SQL scripts, or executing other applications when a data load finishes.
 
 3. **Builtin Components and Extensions**  
     SSIS offers a variety of **builtin data transformation** components (e.g., merge joins, lookups, data conversion) and also allows you to create custom scripts or use thirdparty extensions to handle more complex scenarios.
@@ -689,7 +675,7 @@ models can use those filter records, use the Record Viewer.
 
 ## ER Diagram Section
   Navigate to the ER Diagram section by scrolling down or clicking on the ER Diagram tab.
-3 • 5 Investigating Caboodle
+3 â€¢ 5 Investigating Caboodle
  
 Facts and data marts will include an ER Diagram section after the Columns section. The ER Diagram
 section will be built in a classic star schema format with the table you are investigating in the center and
@@ -1235,7 +1221,7 @@ SELECT MedicationOrderFact.MedicationOrderEpicId
 ### 1. **Structural Integrity Check**
    - **Delimiter Consistency**: Verify that the data feed uses the same delimiter format (e.g., comma, tab).
    - **Column Count and Names**: Ensure the number of columns and column names are consistent with previous feeds.
-   - **Data Type Consistency**: Validate that data types (e.g., string, integer, date) for each column match between this month's and prior months’ feeds.
+   - **Data Type Consistency**: Validate that data types (e.g., string, integer, date) for each column match between this month's and prior monthsâ€™ feeds.
 
 ### 2. **Provider Attribution and Affiliation Validation**
    - **Provider Validation**: Verify that each provider has a valid National Provider Identifier (NPI) and is listed on the current roster.
@@ -1339,18 +1325,17 @@ To get started with the **Epic Caboodle** solution repository, follow these step
 - Saves You Time 
 
 
-## Code Features
 
-These features are designed to provide everything you need for **Epic Caboodle** 
+## ⚙️ Key Features
 
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
+- ✅ **Self Documenting** Automatically identifies and annotates major steps in a notebook, making the codebase readable and well structured.
+- ✅ **Self Testing** Includes built in **unit tests** for each function to validate logic and ensure code reliability.
+- ✅ **Easily Configurable** Uses a simple **config.ini** file for centralized settings and easy customization through key value pairs.
+- ✅ **Talking Code** explains itself through inline commentary, helping you understand both **what** it does and **why** it does it.
+- ✅ **Self Logging** extends Python’s standard **logging** module for **step by step runtime insights**.
+- ✅ **Self Debugging** Includes debugging hooks and detailed error tracing to simplify development and troubleshooting.
+- ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
+- ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
 ## List of Figures
